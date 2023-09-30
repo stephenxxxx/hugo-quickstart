@@ -2,6 +2,8 @@
 
 # Hugo Quickstart Template   
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/20517fb9-f00d-4017-93c1-25edd418a892/deploy-status)](https://app.netlify.com/sites/stephenx/deploys)  
+
 This is a bare-bones Hugo project that has everything you need to quickly deploy it to [Netlify](https://netlify.com). 
 
 Hate reading, here's a video: https://youtu.be/t-tsRxxYdpk
